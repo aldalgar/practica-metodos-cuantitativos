@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 NOMRBES: Alberto Dalmau García, Carlos Mateo Martínez y Alexis Cavero Arocas .
 
-Soy carlos, soy ALberto y soy  hola buena.     
+Soy carlos, soy ALberto y soy  hola buena.        
